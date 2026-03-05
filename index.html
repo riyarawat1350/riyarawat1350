@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riya Rawat | Creative Developer</title>
+    <meta name="description" content="Portfolio of Riya Rawat - Creative Developer and Designer.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;900&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="bg-mesh"></div>
+    <div class="blob"></div>
+
+    <nav>
+        <div class="logo">RIYA.DEV</div>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <a href="#contact" class="btn btn-primary" style="padding: 0.5rem 1.5rem;">Hire Me</a>
+    </nav>
+
+    <main>
+        <section id="home" class="hero">
+            <div class="hero-image-container" style="margin-bottom: 2rem;">
+                <img src="portfolio_hero_background.png" alt="Creative Background" style="width: 100%; max-width: 800px; border-radius: 30px; box-shadow: 0 20px 50px rgba(0,0,0,0.5); object-fit: cover; height: 300px; filter: brightness(0.8);">
+            </div>
+            <h1>Transforming Ideas into <br><span style="background: linear-gradient(to right, #8b5cf6, #06b6d4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Digital Reality.</span></h1>
+            <p>I'm Riya Rawat, a passionate developer building premium digital experiences with modern tech and stunning aesthetics.</p>
+            <div class="hero-btns">
+                <a href="#projects" class="btn btn-primary">View My Work</a>
+                <a href="#about" class="btn btn-outline">Deep Dive</a>
+            </div>
+        </section>
+
+        <section id="about" class="reveal">
+            <h2 class="section-title">Who is Riya?</h2>
+            <div class="card" style="max-width: 800px; margin: 0 auto; display: flex; gap: 2rem; align-items: center;">
+                <div style="flex: 1;">
+                    <p style="font-size: 1.1rem; line-height: 1.8;">
+                        I specialize in creating immersive web applications that don't just work—they wow. With a focus on performance and visual storytelling, I help brands and individuals stand out in the digital landscape.
+                    </p>
+                    <div style="display: flex; gap: 1rem; margin-top: 2rem;">
+                        <i data-lucide="code" color="#8b5cf6"></i>
+                        <i data-lucide="layout" color="#06b6d4"></i>
+                        <i data-lucide="zap" color="#f43f5e"></i>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="reveal">
+            <h2 class="section-title">Expertise</h2>
+            <div class="card-grid">
+                <div class="card">
+                    <i data-lucide="monitor" size="32" color="#8b5cf6"></i>
+                    <h3>Frontend Mastery</h3>
+                    <p>Crafting responsive, high-performance interfaces using modern frameworks and cutting-edge CSS techniques.</p>
+                </div>
+                <div class="card">
+                    <i data-lucide="palette" size="32" color="#06b6d4"></i>
+                    <h3>UI/UX Design</h3>
+                    <p>Designing intuitive user journeys and stunning visuals that prioritize user experience and aesthetic appeal.</p>
+                </div>
+                <div class="card">
+                    <i data-lucide="layers" size="32" color="#f43f5e"></i>
+                    <h3>Full-Stack Dev</h3>
+                    <p>Building robust systems from database architecture to smooth client-side interactions.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="reveal" style="text-align: center;">
+            <h2 class="section-title">Let's Connect</h2>
+            <p style="margin-bottom: 2rem;">Ready to start your next big project?</p>
+            <div class="card" style="max-width: 600px; margin: 0 auto;">
+                <form id="contact-form" style="display: flex; flex-direction: column; gap: 1rem;">
+                    <input type="text" placeholder="Your Name" style="padding: 1rem; border-radius: 10px; border: 1px solid var(--glass-border); background: var(--glass); color: white;">
+                    <input type="email" placeholder="Email Address" style="padding: 1rem; border-radius: 10px; border: 1px solid var(--glass-border); background: var(--glass); color: white;">
+                    <textarea placeholder="Your Message" rows="4" style="padding: 1rem; border-radius: 10px; border: 1px solid var(--glass-border); background: var(--glass); color: white;"></textarea>
+                    <button type="submit" class="btn btn-primary">Send Message</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <footer style="padding: 3rem; text-align: center; color: var(--text-dim); border-top: 1px solid var(--glass-border);">
+        <p>&copy; 2026 Riya Rawat. Created with ❤️ and Code.</p>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>
