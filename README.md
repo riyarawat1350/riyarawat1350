@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&width=1000&height=250&section=header&text=Riya%20Rawat%20👋&fontSize=70&animation=fadeIn&fontAlignY=40&desc=B.Tech%20IoT%20|%20Cybersecurity%20|%20Blockchain&descAlignY=65&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=250&section=header&text=Riya%20Rawat%20👋&fontSize=70&animation=fadeIn&fontAlignY=40&desc=B.Tech%20IoT%20|%20Cybersecurity%20|%20Blockchain&descAlignY=65&descSize=25" width="100%" />
 
   <br />
 
@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=flat-square&color=8b5cf6" />
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXFmNXZ6eG1qbmRxZ3B4eG1qbmRxZ3B4eG1qbmRxZ3B4eG1qJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius: 20px;" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXFmNXZ6eG1qbmRxZ3B4eG1qbmRxZ3B4eG1qbmRxZ3B4eG1qJmVwPXYxX2ludGVybmFs_gif_by_id&ct=g/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius: 20px;" />
     </td>
   </tr>
 </table>
@@ -51,29 +51,23 @@
 <br />
 
 <div align="center">
-  <!-- Dynamic Snake Animation -->
   <img src="https://raw.githubusercontent.com/riyarawat1350/riyarawat1350/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
 
-### 📊 GitHub Dashboard
+### 📊 GitHub Analysis
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyarawat1350&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyarawat1350&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyarawat1350&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   <br /><br />
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=riyarawat1350&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" height="175" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyarawat1350&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="175" /></td>
-    </tr>
-  </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyarawat1350&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
 </div>
 
 ---
 
-### � Connect & Collaborate
+### 📫 Connect & Collaborate
 
 <div align="center">
   <a href="mailto:riyarawat1350@users.noreply.github.com">
@@ -92,5 +86,5 @@
 </p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>Maintained with ❤️ by Riya Rawat</i>
 </p>
