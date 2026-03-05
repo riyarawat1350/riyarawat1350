@@ -1,20 +1,11 @@
 <div align="center">
-  <img src="banner.png" alt="Riya Rawat Banner" width="100%" />
-
   <br />
 
   <h1>Building Secure & Scalable Tech for the Future 🌍</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=IoT+Developer;Cybersecurity+Enthusiast;Blockchain+Explorer;Web+Developer;B.Tech+Student+|+India" alt="Typing SVG" />
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=riyarawat1350&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Visitor Counter" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Riya+Rawat;IoT+Developer;Cybersecurity+Enthusiast;Blockchain+Explorer;Web+Developer;B.Tech+Student+|+India" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=8b5cf6&height=2&width=1000" />
-</p>
 
 ### 🚀 About Me
 
@@ -36,9 +27,6 @@
   </table>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyarawat1350&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-</p>
 
 ---
 
@@ -53,77 +41,6 @@
 | **Security & Blockchain** | ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=fortinet&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-333333?style=for-the-badge&logo=blockchain.com&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-</div>
-
----
-
-### 🛠️ Featured Projects
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <h3>🎮 Interactive Tic-Tac-Toe</h3>
-        <p>A modern, animated web game featuring smooth AI and glassmorphism UI.</p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <br /><br />
-        <a href="https://game-psi-cyan-65.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/riyarawat1350/game">
-          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <h3>🐍 Python Core Hub</h3>
-        <p>A central repository for security scripts and IoT automation algorithms.</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-333333?style=for-the-badge&logo=probot&logoColor=white" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" />
-        <a href="https://github.com/riyarawat1350/python">
-          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyarawat1350&theme=tokyo-night&area=true&hide_border=true&border_radius=10" width="100%" alt="Activity Graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=riyarawat1350&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" height="180" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyarawat1350&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br />
-        <img src="https://streak-stats.demolab.com?user=riyarawat1350&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/riyarawat1350/riyarawat1350/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -146,9 +63,6 @@
 
 <br />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic." alt="Quote" />
-</p>
 
 <p align="center">
   <i>"Pushing the boundaries of the digital ecosystem, one commit at a time."</i>
@@ -156,5 +70,4 @@
 
 <div align="center">
   <p>Thanks for visiting my profile! ❤️</p>
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=8b5cf6&height=2&width=1000" />
 </div>
