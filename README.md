@@ -42,7 +42,7 @@
 
 ---
 
-### � Tech Stack
+### 💻 Tech Stack
 
 <div align="center">
 
@@ -62,15 +62,29 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyarawat1350&repo=game&theme=tokyonight&show_owner=false" alt="Project 1" /><br />
-        <a href="https://github.com/riyarawat1350/game"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" /></a>
-        <img src="https://img.shields.io/badge/Tech-JavaScript-F7DF1E?style=flat-square" />
+      <td width="50%" align="center">
+        <h3>🎮 Interactive Tic-Tac-Toe</h3>
+        <p>A modern, animated web game featuring smooth AI and glassmorphism UI.</p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <br /><br />
+        <a href="https://game-psi-cyan-65.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <a href="https://github.com/riyarawat1350/game">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyarawat1350&repo=python&theme=tokyonight&show_owner=false" alt="Project 2" /><br />
-        <a href="https://github.com/riyarawat1350/python"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" /></a>
-        <img src="https://img.shields.io/badge/Tech-Python-3776AB?style=flat-square" />
+      <td width="50%" align="center">
+        <h3>🐍 Python Core Hub</h3>
+        <p>A central repository for security scripts and IoT automation algorithms.</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-333333?style=for-the-badge&logo=probot&logoColor=white" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" />
+        <a href="https://github.com/riyarawat1350/python">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </td>
     </tr>
   </table>
