@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=250&section=header&text=Riya%20Rawat%20👋&fontSize=70&animation=fadeIn&fontAlignY=40&desc=B.Tech%20IoT%20Student%20|%20Cybersecurity%20|%20Full%20Stack&descAlignY=65&descSize=25" width="100%" />
 
   <br />
 
@@ -94,6 +93,4 @@
   <i>"Pushing the boundaries of the digital ecosystem, one commit at a time."</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=8b5cf6&height=2&width=1000" alt="Divider" />
-</p>
+---
