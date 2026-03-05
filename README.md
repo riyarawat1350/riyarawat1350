@@ -56,16 +56,6 @@
 
 ---
 
-### 📊 GitHub Dashboard
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyarawat1350&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=10" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyarawat1350&layout=compact&theme=radical&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
-  <br /><br />
-  <img src="https://streak-stats.demolab.com?user=riyarawat1350&theme=radical&hide_border=true&border_radius=10" width="100%" alt="Streak Stats" />
-</div>
-
----
 
 ### 📫 Connect & Collaborate
 
