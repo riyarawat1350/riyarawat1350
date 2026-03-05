@@ -14,23 +14,25 @@
 
 ### 👩‍💻 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      Hello! I'm <b>Riya</b>, a 2nd-year B.Tech student specializing in <b>Internet of Things (IoT)</b> from India. I am dedicated to exploring the intersection of hardware and secure software.
-      <br /><br />
-      - 🎓 <b>Education</b>: B.Tech 2nd Year (IoT)
-      - 🔒 <b>Focus</b>: Cybersecurity & Ethical Hacking
-      - ⛓️ <b>Research</b>: Blockchain & Smart Contracts
-      - 🌐 <b>Dev</b>: Creative Frontend Engineering
-      <br /><br />
-      <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=flat-square&color=8b5cf6" />
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXFmNXZ6eG1qbmRxZ3B4eG1qbmRxZ3B4eG1qbmRxZ3B4eG1qJmVwPXYxX2ludGVybmFs_gif_by_id&ct=g/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius: 20px;" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="60%" valign="top">
+        Hello! I'm <b>Riya</b>, a 2nd-year B.Tech student specializing in <b>Internet of Things (IoT)</b> from India. I am dedicated to exploring the intersection of hardware and secure software.
+        <br /><br />
+        - 🎓 <b>Education</b>: B.Tech 2nd Year (IoT)
+        - 🔒 <b>Focus</b>: Cybersecurity & Ethical Hacking
+        - ⛓️ <b>Research</b>: Blockchain & Smart Contracts
+        - 🌐 <b>Dev</b>: Creative Frontend Engineering
+        <br /><br />
+        <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=flat-square&color=8b5cf6" />
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRyZ3VmcjV6eG1qbmRxZ3B4eG1qbmRxZ3B4eG1qbmRxZ3B4eG1qJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius: 20px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -51,6 +53,7 @@
 <br />
 
 <div align="center">
+  <!-- Dynamic Snake Animation - Only appears after GitHub Action runs -->
   <img src="https://raw.githubusercontent.com/riyarawat1350/riyarawat1350/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
@@ -59,10 +62,10 @@
 ### 📊 GitHub Analysis
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyarawat1350&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyarawat1350&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyarawat1350&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyarawat1350&layout=compact&theme=dark" alt="Top Languages" height="150" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyarawat1350&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyarawat1350&theme=dark" alt="Streak Stats" width="100%" />
 </div>
 
 ---
@@ -82,7 +85,7 @@
 <br />
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20advance%20of%20technology%20is%20based%20on%20making%20it%20fit%20in%20so%20that%20you%20don't%20even%20notice%20it." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20advance%20of%20technology%20is%20based%20on%20making%20it%20fit%20in%20so%20that%20you%20don't%20even%20notice%20it." />
 </p>
 
 <p align="center">
