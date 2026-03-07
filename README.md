@@ -15,14 +15,33 @@
 ### 🚀 About Me
 
 <div align="center">
-  <table border="0">
+  <p>
+    I am a 2nd-year B.Tech student from India, specializing in <b>Internet of Things (IoT)</b>. My passion lies at the intersection of hardware and secure software, where I build resilient, decentralized systems. I thrive on solving complex problems with scalable, engineering-driven solutions.
+  </p>
+  
+  <br />
+
+  <table border="0" width="100%">
     <tr>
-      <td width="100%" valign="top">
-        I am a 2nd-year B.Tech student from India, specializing in <b>Internet of Things (IoT)</b>. My passion lies at the intersection of hardware and secure software, where I build resilient, decentralized systems. I thrive on solving complex problems with elegant, scalable solutions.
-        <br /><br />
-        � <b>Currently working on</b>: Advanced IoT Security Protocols<br />
-        🌱 <b>Learning</b>: Advanced Smart Contracts & Zero-Knowledge Proofs<br />
-        💬 <b>Ask me about</b>: Web3, Cyber Defense, or Hardware Prototyping
+      <td width="50%" valign="top">
+        <div align="left">
+          <h3>🎯 Core Focus</h3>
+          <ul>
+            <li><b>IoT Architecture</b> & Embedded Systems</li>
+            <li><b>Web3 Development</b> & Smart Contracts</li>
+            <li><b>Cyber Defense</b> & Threat Analysis</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left">
+          <h3>⚡ Current Activity</h3>
+          <ul>
+            <li>🔭 <b>Building:</b> Advanced IoT Security Protocols</li>
+            <li>🌱 <b>Learning:</b> Zero-Knowledge Proofs</li>
+            <li>💬 <b>Ask me about:</b> Decentralized Systems</li>
+          </ul>
+        </div>
       </td>
     </tr>
   </table>
