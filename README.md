@@ -48,13 +48,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyarawat1350&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="Riya's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyarawat1350&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" height="180px" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyarawat1350&theme=dracula&border_radius=10" alt="GitHub Streak" />
 </div>
 
