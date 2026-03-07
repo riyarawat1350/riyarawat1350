@@ -80,17 +80,17 @@
     <tr>
       <td>
         <div align="center">
-          <img src="https://img.shields.io/badge/Project-SmartHome_Guard-8B5CF6?style=for-the-badge" alt="Project 1" /><br />
-          <b>AI-driven IoT security system for domestic environments.</b><br />
-          <code>Python</code> • <code>IoT</code> • <code>MQTT</code><br />
+          <img src="https://img.shields.io/badge/Project-CyberAware-8B5CF6?style=for-the-badge" alt="Project 1" /><br />
+          <b>Interactive Cybersecurity Awareness platform for learning threats.</b><br />
+          <code>HTML</code> • <code>Glassmorphism</code> • <code>CyberDef</code><br />
           <a href="https://github.com/riyarawat1350">Repo</a> • <a href="#">Demo</a>
         </div>
       </td>
       <td>
         <div align="center">
-          <img src="https://img.shields.io/badge/Project-DecentraAuth-06B6D4?style=for-the-badge" alt="Project 2" /><br />
-          <b>Blockchain-based identity management protocol.</b><br />
-          <code>Solidity</code> • <code>Ethereum</code> • <code>Web3</code><br />
+          <img src="https://img.shields.io/badge/Project-GameHub-06B6D4?style=for-the-badge" alt="Project 2" /><br />
+          <b>Collection of interactive games with high-end animations.</b><br />
+          <code>JS</code> • <code>CSS Animations</code> • <code>UX</code><br />
           <a href="https://github.com/riyarawat1350">Repo</a> • <a href="#">Demo</a>
         </div>
       </td>
@@ -99,9 +99,9 @@
       <td colspan="2">
         <div align="center">
           <br />
-          <img src="https://img.shields.io/badge/Project-SecureMesh-F43F5E?style=for-the-badge" alt="Project 3" /><br />
-          <b>Lightweight encryption layer for IoT mesh networks.</b><br />
-          <code>C++</code> • <code>Cryptography</code> • <code>Zigbee</code><br />
+          <img src="https://img.shields.io/badge/Project-SmartAuth-F43F5E?style=for-the-badge" alt="Project 3" /><br />
+          <b>IoT-based biometric authentication system for smart homes.</b><br />
+          <code>C++</code> • <code>Blockchain</code> • <code>Sensors</code><br />
           <a href="https://github.com/riyarawat1350">Repo</a> • <a href="#">Demo</a>
         </div>
       </td>
@@ -109,6 +109,7 @@
   </table>
   <br />
 </div>
+
 
 
 ---
