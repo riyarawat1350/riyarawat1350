@@ -75,14 +75,41 @@
 ### ⭐ Featured Projects
 
 <div align="center">
-
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **SmartHome Guard** | AI-driven IoT security system for domestic environments. | [Repo](https://github.com/riyarawat1350) • [Demo](#) |
-| **DecentraAuth** | Blockchain-based identity management protocol. | [Repo](https://github.com/riyarawat1350) • [Demo](#) |
-| **SecureMesh** | Lightweight encryption layer for IoT mesh networks. | [Repo](https://github.com/riyarawat1350) • [Demo](#) |
-
+  <br />
+  <table border="0">
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Project-SmartHome_Guard-8B5CF6?style=for-the-badge" alt="Project 1" /><br />
+          <b>AI-driven IoT security system for domestic environments.</b><br />
+          <code>Python</code> • <code>IoT</code> • <code>MQTT</code><br />
+          <a href="https://github.com/riyarawat1350">Repo</a> • <a href="#">Demo</a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Project-DecentraAuth-06B6D4?style=for-the-badge" alt="Project 2" /><br />
+          <b>Blockchain-based identity management protocol.</b><br />
+          <code>Solidity</code> • <code>Ethereum</code> • <code>Web3</code><br />
+          <a href="https://github.com/riyarawat1350">Repo</a> • <a href="#">Demo</a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div align="center">
+          <br />
+          <img src="https://img.shields.io/badge/Project-SecureMesh-F43F5E?style=for-the-badge" alt="Project 3" /><br />
+          <b>Lightweight encryption layer for IoT mesh networks.</b><br />
+          <code>C++</code> • <code>Cryptography</code> • <code>Zigbee</code><br />
+          <a href="https://github.com/riyarawat1350">Repo</a> • <a href="#">Demo</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+  <br />
 </div>
+
 
 ---
 
