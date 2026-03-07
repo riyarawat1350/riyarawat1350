@@ -8,10 +8,6 @@
   <p align="center">
     <strong>Building Secure & Scalable Tech for the Future 🌍</strong>
   </p>
-
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyarawat1350&theme=dracula&no-frame=true&column=4&margin-w=15" alt="github profile trophy" /></a>
-  </p>
 </div>
 
 ---
