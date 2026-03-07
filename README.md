@@ -72,10 +72,10 @@
 
 ---
 
-### � Contribution Activity
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/riyarawat1350/riyarawat1350/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyarawat1350&theme=dracula&bg_color=1E1E2E&color=8B5CF6&line=8B5CF6&point=FFFFFF&hide_border=true" alt="Riya's Contribution Graph" />
 </div>
 
 ---
