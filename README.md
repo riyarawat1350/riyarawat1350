@@ -84,30 +84,30 @@
 
 <div align="center">
   <br />
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td>
+      <td width="33%" align="center" valign="top">
+        <h3 align="center">🛡️ CyberAware</h3>
+        <p align="center">Interactive Cybersecurity Awareness platform designed for learning and mitigating modern web threats.</p>
         <div align="center">
-          <img src="https://img.shields.io/badge/Project-CyberAware-8B5CF6?style=for-the-badge" alt="Project 1" /><br />
-          <b>Interactive Cybersecurity Awareness platform for learning threats.</b><br />
-          <code>HTML</code> • <code>Glassmorphism</code> • <code>CyberDef</code>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/UX/UI-8B5CF6?style=flat-square"/>
         </div>
       </td>
-      <td>
+      <td width="33%" align="center" valign="top">
+        <h3 align="center">🎮 GameHub</h3>
+        <p align="center">A robust collection of interactive browser games featuring high-end CSS animations and responsive design.</p>
         <div align="center">
-          <img src="https://img.shields.io/badge/Project-GameHub-06B6D4?style=for-the-badge" alt="Project 2" /><br />
-          <b>Collection of interactive games with high-end animations.</b><br />
-          <code>JS</code> • <code>CSS Animations</code> • <code>UX</code>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         </div>
       </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      <td width="33%" align="center" valign="top">
+        <h3 align="center">🔒 SmartAuth</h3>
+        <p align="center">Advanced IoT biometric authentication system integrating secure networks for automated smart home access.</p>
         <div align="center">
-          <br />
-          <img src="https://img.shields.io/badge/Project-SmartAuth-F43F5E?style=for-the-badge" alt="Project 3" /><br />
-          <b>IoT-based biometric authentication system for smart homes.</b><br />
-          <code>C++</code> • <code>Blockchain</code> • <code>Sensors</code>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+          <img src="https://img.shields.io/badge/IoT-F43F5E?style=flat-square"/>
         </div>
       </td>
     </tr>
